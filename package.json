@@ -1,0 +1,16 @@
+{
+  "name": "cj-punks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
